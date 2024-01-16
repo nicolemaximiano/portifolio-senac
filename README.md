@@ -1,4 +1,4 @@
-# Portifólio
+# Portfólio
 
 Imagem da página principal. Essa imagem conta com as linhas, meio rosa, (guias) que mostram as `div`s. O código final não possui essas linhas.
 
@@ -9,7 +9,7 @@ Troque os textos por algo que te agrade.
 Esse projeto é interessante, para dar visibilidade e contar um pouco de sua personalidade para possíveis contratantes e contribuidores.
 
 Feito com:
-- bootstrap
+- bootstrap como framework principal
 
 ---
 
